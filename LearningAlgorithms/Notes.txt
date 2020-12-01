@@ -1,0 +1,13 @@
+Notes:
+[[a, d], [f, b], [b, d], [f, a], [d, c], [d, e], [e, c]]
+
+[g, d, c, e]
+[d, c, e, i]
+[c, e, i, g]
+[e, i, g, d]
+[i, g, d, c]
+[g, d, c, e]
+[d, c, e, i]
+[c, e, i, g]
+[e, i, g, d]
+[i, g, d, c]
